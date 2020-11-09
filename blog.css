@@ -1,0 +1,41 @@
+
+body{
+
+	border: 20px solid #bdc3c7;
+	/*margin: 20px 300px;*/
+	font-family: Source Sans Pro; 
+	padding: 20px;
+
+	max-width: 700px;
+	width:80%;
+	margin:20px auto;
+}
+
+
+
+.date{
+
+
+	color:#3498db;
+	/*font-weight: bold;*/
+	/*font-size: 20px;*/
+	text-transform: uppercase;
+	/*letter-spacing: 2px;*/
+	letter-spacing: 0.2rem;
+	/*font-weight: bold;*/
+}
+
+
+.bar{
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+h2{
+	color:#2c3e50;
+	font-size:2.0rem;
+}
+
+.post{
+	margin-bottom: 20px;
+}
